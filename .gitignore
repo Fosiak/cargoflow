@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Sekrety i konfiguracja lokalna
+.env
+
+# Frontend
+node_modules/
+dist/
+
+# Edytory i system
+.vscode/
+.idea/
+.DS_Store
